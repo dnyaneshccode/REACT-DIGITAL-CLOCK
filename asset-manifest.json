@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACT-DIGITAL-CLOCK/static/css/main.4baf9709.chunk.css",
+    "main.js": "/REACT-DIGITAL-CLOCK/static/js/main.360c6a4a.chunk.js",
+    "main.js.map": "/REACT-DIGITAL-CLOCK/static/js/main.360c6a4a.chunk.js.map",
+    "runtime-main.js": "/REACT-DIGITAL-CLOCK/static/js/runtime-main.621f211e.js",
+    "runtime-main.js.map": "/REACT-DIGITAL-CLOCK/static/js/runtime-main.621f211e.js.map",
+    "static/js/2.c892617a.chunk.js": "/REACT-DIGITAL-CLOCK/static/js/2.c892617a.chunk.js",
+    "static/js/2.c892617a.chunk.js.map": "/REACT-DIGITAL-CLOCK/static/js/2.c892617a.chunk.js.map",
+    "static/js/3.4227e207.chunk.js": "/REACT-DIGITAL-CLOCK/static/js/3.4227e207.chunk.js",
+    "static/js/3.4227e207.chunk.js.map": "/REACT-DIGITAL-CLOCK/static/js/3.4227e207.chunk.js.map",
+    "index.html": "/REACT-DIGITAL-CLOCK/index.html",
+    "static/css/main.4baf9709.chunk.css.map": "/REACT-DIGITAL-CLOCK/static/css/main.4baf9709.chunk.css.map",
+    "static/js/2.c892617a.chunk.js.LICENSE.txt": "/REACT-DIGITAL-CLOCK/static/js/2.c892617a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.621f211e.js",
+    "static/js/2.c892617a.chunk.js",
+    "static/css/main.4baf9709.chunk.css",
+    "static/js/main.360c6a4a.chunk.js"
+  ]
+}
